@@ -2,3 +2,5 @@ Test stach
 git statch lisyt
 
 git statch list
+
+git revert
