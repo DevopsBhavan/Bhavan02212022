@@ -4,3 +4,7 @@ git statch lisyt
 git statch list
 
 git revert
+
+git log
+
+git log --oneline
